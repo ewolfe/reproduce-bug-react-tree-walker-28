@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ewolfe/reproduce-bug-react-tree-walker-28.svg)](https://greenkeeper.io/)
+
 This reproduces the bug outlined here https://github.com/ctrlplusb/react-tree-walker/issues/28
 
 Quick start:
